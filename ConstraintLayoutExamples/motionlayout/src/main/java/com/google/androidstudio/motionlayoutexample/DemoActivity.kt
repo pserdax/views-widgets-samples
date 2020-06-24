@@ -54,6 +54,7 @@ class DemoActivity : AppCompatActivity() {
             motionLayout.transitionToStart()
         } else {
             motionLayout.transitionToEnd()
+            
         }
     }
 }
